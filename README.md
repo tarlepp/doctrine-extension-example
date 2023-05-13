@@ -12,7 +12,7 @@ Someone did have some problems to configure [Doctrine Behavioral Extensions](htt
 5. Open `http://localhost:8000/` in your browser
 6. In each request you should be adding new entity to database with current timestamps (created_at, updated_at)
 
-## Licens
+## License
 
 [The MIT License (MIT)](LICENSE)
 
