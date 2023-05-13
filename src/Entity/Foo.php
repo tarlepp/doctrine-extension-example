@@ -25,7 +25,7 @@ class Foo
 
     #[ORM\Column]
     #[Gedmo\Timestampable(
-        on: 'create',
+        on: 'update',
     )]
     private ?\DateTimeImmutable $updatedAt = null;
 
