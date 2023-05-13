@@ -8,7 +8,7 @@ Someone did have some problems to configure [Doctrine Behavioral Extensions](htt
 1. Clone this repository
 2. Run `composer install`
 3. Run `php bin/console doctrine:schema:create`
-4. Run `symfony seve`
+4. Run `symfony serve`
 5. Open `http://localhost:8000/` in your browser
 6. In each request you should be adding new entity to database with current timestamps (created_at, updated_at)
 
